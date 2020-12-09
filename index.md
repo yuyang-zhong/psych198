@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Just the Class
+title: Reproducibility DeCal
 nav_exclude: true
 seo:
   type: Course
-  name: Just the Class
+  name: Reproducibility DeCal
 ---
 
 # {{ site.tagline }}
@@ -17,9 +17,9 @@ seo:
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
-## Just the Class
+## PSYCH 198 Section 016
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+Reimagining Psychology Research - Looking Ahead from the Replication Crisis
 
 - a [course calendar](calendar.md),
 - a [staff](staff.md) page,

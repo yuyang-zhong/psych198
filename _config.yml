@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Reproducibility DeCal
-tagline: PSYCH 198 Section 016
-description: Reimagining Psychology Research - Looking Ahead from the Replication Crisis
+title: Psych 198
+tagline: Reproducibility DeCal
+description: 'Reimagining Psychology Research: Looking Ahead from the Replication Crisis'
 author: Yuyang Zhong
 baseurl: '/psych198' # the subpath of your site, e.g. /blog
 url: 'https://yuyang-zhong.github.io' # the base hostname & protocol for your site, e.g. http://example.com
@@ -28,22 +28,22 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-footer_content:
+    Yuyang Zhong:
+    - 'https://yuyangzhong.com'
+    bCourses:
+      - 'https://bcourses.berkeley.edu'
+    DataHub:
+      - 'https://datahub.berkeley.edu'
+footer-content: >-
+  Powered by <a href="https://github.com/kevinlin1/just-the-class">Just the Class</a>
 
 # Collections for website data
 collections:
-  staffers:
   modules:
-  schedules:
   announcements:
+  staffers:
 # Default layouts for each collection type
 defaults:
-  - scope:
-      path: ''
-      type: staffers
-    values:
-      layout: staffer
-      subpath: '/assets/images/'
   - scope:
       path: ''
       type: modules
@@ -51,14 +51,15 @@ defaults:
       layout: module
   - scope:
       path: ''
-      type: schedules
-    values:
-      layout: schedule
-  - scope:
-      path: ''
       type: announcements
     values:
       layout: announcement
+  - scope:
+      path: ''
+      type: staffers
+    values:
+      layout: staffer
+      subpath: '/assets/images/'
 
 compress_html:
   clippings: all

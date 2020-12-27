@@ -17,7 +17,7 @@ description: >-
 ---
 
 ## Course Overview
-The replication crisis and concerns of reproducibility and valid research continues to bring heightened attention on methods and practices in Psychology. Scholars both across the discipline, and across academia continue to debate the need for replication and reproducibility, and to what degree, while little research has been done to reveal trends of research practices to better contextualize this conversation. 
+The replication crisis and concerns of reproducibility and valid research continues to bring heightened attention on methods and practices in Psychology. Scholars both across the discipline, and across academia continue to debate the need for replication and reproducibility, and to what degree, while little research has been done to reveal trends of research practices to better contextualize this conversation.
 
 This 12-week course will take a deeper dive into the present issues and proposed solutions to ensure reproducibility in psychology research, and explore alternative approaches to traditional research methods. Each week you will read scholar articles to frame our discussion on the reproducibility crisis and what the field currently proposes. You will also engage in writing a final paper to review and evaluate open science tools and practices, as well as how the field of psychology can advance in a critical & analytical lens. 
 

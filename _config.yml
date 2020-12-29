@@ -24,7 +24,7 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.3.3
 color_scheme: light
-search_enabled: true
+search_enabled: false
 heading_anchors: true
 permalink: pretty
 aux_links:
@@ -36,6 +36,10 @@ aux_links:
       - 'https://datahub.berkeley.edu'
 footer-content: >-
   Powered by <a href="https://github.com/kevinlin1/just-the-class">Just the Class</a>
+
+# Google Analytics Tracking 
+ga_tracking: G-Y2TKHJDN2L
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
 
 # Collections for website data
 collections:

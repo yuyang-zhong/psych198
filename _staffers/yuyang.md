@@ -1,5 +1,5 @@
 ---
-name: Yuyang Zhong
+name: Yuyang Zhong *(he/him)*
 role: Instructor
 email: yuyang@berkeley.edu
 photo: Yuyang.JPG

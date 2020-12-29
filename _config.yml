@@ -38,8 +38,8 @@ footer-content: >-
   Powered by <a href="https://github.com/kevinlin1/just-the-class">Just the Class</a>
 
 # Google Analytics Tracking 
-ga_tracking: G-Y2TKHJDN2L
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
+ga_tracking: UA-186223275-1
+ga_tracking_anonymize_ip: false
 
 # Collections for website data
 collections:

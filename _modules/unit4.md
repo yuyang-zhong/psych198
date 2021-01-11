@@ -9,12 +9,12 @@ title: Unit 4
 Apr 21
 : Case Study
   : Slides
-: **Readings**{: .label .label-read }
-TBD
+: **Readings**{: .label .label-read }TBD
+: **Vignette**{: .label .label-hw }Milestone 3
 
 
 Apr 28
 : Guest Lecture?/Conclusion
   : Slides
-: **Assignment**{: .label .label-hw }End-of-Semester Survey
-: **Assignment**{: .label .label-hw }Final Paper (Due DATE)
+: **Assignment**{: .label .label-topic }End-of-Semester Survey
+: **Vignette**{: .label .label-hw }Final Paper/Vignette

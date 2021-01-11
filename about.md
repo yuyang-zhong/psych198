@@ -68,11 +68,11 @@ This is a 1-unit, Pass/No Pass course. A final grade of 70% or above is required
 
 - **Weekly Meeting Check-Ins (20%)**
 	- You are asked to attend at least 10 out of 12 class meetings to receive full credit. For each meeting, there will either by a check-in form you submit or an in-class activity for you to engage in. 
-- **Readings & Reflections (40%)**
-	- Readings are assigned to supplement your understanding of each week’s class material. They also serve as additional materials/references for your reflection assignments.
+- **Weekly Assignments: Readings & Reflections (40%)**
+	- Readings are assigned to supplement your understanding of each week’s class material. They also serve as additional materials/references for your reflection assignments. Some week's weekly assignments are designed to walk through readings and highlight important concepts.
 	- At the end of every part of the course, you will complete a reflection assignment. This could either be in a form of a short written reflection to a prompt, or posting and responding to discussion posts. Each of these assignments accounts for 10% of your final grade.
-- **Final Paper (40%)**
-	- The final paper will be a synthesis of what you’ve learned from this course, where you will devise your proposal on how psychology research should adapt and change for the betterment of scientific discovery.  
+- **Final Paper/Vignette (40%)**
+	- The vignette will be a synthesis of what you’ve learned from this course, where you will devise your proposal on how psychology research should adapt and change for the betterment of scientific discovery.  
 
 
 

@@ -24,7 +24,7 @@ This 12-week course will take a deeper dive into the present issues and proposed
 
 ## Course Logistics
 
-### Instructor of Record 
+### Faculty Sponsor
 **Professor Leif Nelson**<br>
 Haas School of Business<br>
 Affiliated Faculty, Department of Psychology

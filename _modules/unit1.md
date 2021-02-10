@@ -17,9 +17,9 @@ Feb 3
 
 Feb 10
 : Research Methods: Doing & Reading Research
-  : Slides
+  : [Slides](https://docs.google.com/presentation/d/1hZ4A7UwIXjEraDDQFgpIO6ReBTeLbe4bMjZBsTbVs0Q/edit?usp=sharing)
 : **Readings**{: .label .label-read }[TED-Ed Video](https://youtu.be/GUpd2HJHUt8), [Reading Article Video](https://www.youtube.com/watch?v=t2K6mJkSWoA)
-: **Assignment**{: .label .label-topic }Week 2 Assignment
+: **Assignment**{: .label .label-topic }[Week 2 Assignment](https://bcourses.berkeley.edu/courses/1502254/discussion_topics/5952507?module_item_id=16086971)
 
 
 Feb 17

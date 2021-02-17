@@ -26,10 +26,9 @@ Feb 10
 
 Feb 17
 : Hypothesis Testing & Statistical Significance; Questionable Research Practices (QPRs)
-  : Slides
-: **Readings**{: .label .label-read }[Suter 2020](https://journals.sagepub.com/doi/10.1177/1084822320934468?icid=int.sj-full-text.citing-articles.2)
-: **Lab**{: .label .label-lab }Demo/Lab 1
-: **Assignment**{: .label .label-topic }Week 3 Assignment
+  : [Slides](https://docs.google.com/presentation/d/1zoM1mH5jb3YCEqPPfLVSrwk9FvMhQmZ9mKXSNo3E4UU/edit?usp=sharing){: .label .label-yellow }
+: **Readings**{: .label .label-read }[Suter 2020](https://journals-sagepub-com.libproxy.berkeley.edu/doi/pdf/10.1177/1084822320934468)
+: **Assignment**{: .label .label-topic }[Week 3 Assignment](https://bcourses.berkeley.edu/courses/1502254/discussion_topics/5995026)
 
 
 Feb 24
@@ -38,4 +37,5 @@ Feb 24
 : **Readings**{: .label .label-read }
 [Lilienfeld 2017](https://journals.sagepub.com/doi/pdf/10.1177/1745691616687745), 
 Odic & Wojcik 2019
+: **Lab**{: .label .label-lab }Demo/Lab 1
 : **Assignment**{: .label .label-topic }Week 4 Assignment/Unit 1 Reflection

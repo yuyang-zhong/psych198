@@ -35,6 +35,7 @@ Feb 17
 Feb 24
 : Pressure to Produce, File Drawer Problem, & Publication Bias
   : [Slides](https://docs.google.com/presentation/d/1o9J0NoFHSVyd-cwO4aAqY8HT2aMCFKKEJ3P8GnEZZc0/edit?usp=sharing){: .label .label-yellow }
+  : [Recording](https://www.youtube.com/watch?v=8nBVYYNUhLE){: .label .label-red }
 : **Readings**{: .label .label-read }
 [Lilienfeld 2017](https://journals.sagepub.com/doi/pdf/10.1177/1745691616687745), 
 [Odic & Wojcik 2019](https://odic.psych.ubc.ca/files/pdfs/Odic%20and%20Wojcik%20(in%20press)%20Publication%20Gender%20Gap%20in%20Psychology.pdf)

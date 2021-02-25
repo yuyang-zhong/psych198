@@ -37,6 +37,6 @@ Feb 24
   : [Slides](https://docs.google.com/presentation/d/1o9J0NoFHSVyd-cwO4aAqY8HT2aMCFKKEJ3P8GnEZZc0/edit?usp=sharing){: .label .label-yellow }
 : **Readings**{: .label .label-read }
 [Lilienfeld 2017](https://journals.sagepub.com/doi/pdf/10.1177/1745691616687745), 
-Odic & Wojcik 2019
+[Odic & Wojcik 2019](https://odic.psych.ubc.ca/files/pdfs/Odic%20and%20Wojcik%20(in%20press)%20Publication%20Gender%20Gap%20in%20Psychology.pdf)
 : **Lab**{: .label .label-lab }[Demo/Lab 1](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyuyang-zhong%2Fpsych198-files&urlpath=tree%2Fpsych198-files%2Flab1%2Flab1.ipynb&branch=master)
 : **Assignment**{: .label .label-topic }Week 4 Assignment/Unit 1 Reflection

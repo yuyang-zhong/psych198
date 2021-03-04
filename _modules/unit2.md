@@ -9,6 +9,7 @@ title: Unit 2
 Mar 3
 : Self-Correcting Science & Limits to Replication
   : [Slides](https://docs.google.com/presentation/d/1Hj00MQXmEwdRPe3jR1SPxBycD65Frrg1f-ZoTTpXrps/edit?usp=sharing){: .label .label-yellow }
+  : [Recording](https://www.youtube.com/watch?v=4JL9_qQmU90){: .label .label-red }
 : **Readings**{: .label .label-read }
 [Guttinger 2020](https://link.springer.com/article/10.1007/s13194-019-0269-1) 
 : **Assignment**{: .label .label-topic }[Week 5 Assignment](https://bcourses.berkeley.edu/courses/1502254/discussion_topics/6004391) (Due Sunday 3/7)

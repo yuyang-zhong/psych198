@@ -11,7 +11,8 @@ Feb 3
   : [Slides](https://docs.google.com/presentation/d/1AZ1jm43drgntQscfUjjKZRoXt4JWvsLNi71TnsUkOAc/edit?usp=sharing){: .label .label-yellow }
   : [Recording](https://www.youtube.com/watch?v=-t85Teknels){: .label .label-red }
 : **Readings**{: .label .label-read }[Ioannidis 2005](https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.0020124&type=printable), 
-[Baker 2016](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970)
+[Baker 2016](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970), 
+[Nelson et al. 2017](https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-122216-011836)
 : **Assignment**{: .label .label-topic }[Class Survey](https://bcourses.berkeley.edu/courses/1502254/quizzes/2341118) (Due Sunday 2/7)
 : **Assignment**{: .label .label-topic }[Week 1 Assignment](https://bcourses.berkeley.edu/courses/1502254/quizzes/2341121) (Due Sunday 2/7)
 

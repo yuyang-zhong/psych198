@@ -19,6 +19,7 @@ Mar 3
 Mar 10
 : Open Science Framework
   : [Slides](https://docs.google.com/presentation/d/1AQyn7Mk3oY27B3PULONZXVGYZSzaW4lNUww3EfG00WE/edit?usp=sharing){: .label .label-yellow }
+  : [Recording](https://www.youtube.com/watch?v=A3F53w5gc6o){: .label .label-red }
 : **Readings**{: .label .label-read }
 [Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/)
 : **Assignment**{: .label .label-topic }[Week 6 Assignment](https://bcourses.berkeley.edu/courses/1502254/assignments/8254251) (Due Sunday 3/14)

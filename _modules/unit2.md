@@ -27,9 +27,9 @@ Mar 10
 
 Mar 17
 : Robust Modeling & Validations
-  : Slides
-: **Lab**{: .label .label-lab }Demo/Lab 2
-: **Assignment**{: .label .label-topic }Week 7 Assignment/Unit 2 Reflection
+  : [Slides](https://docs.google.com/presentation/d/1WFdPgnqlHkB6HHDsXHgJuZkD2zWtjAp9X_f5jc0fYrw/edit?usp=sharing){: .label .label-yellow }
+: **Lab**{: .label .label-lab }[Demo/Lab 2](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyuyang-zhong%2Fpsych198-files&urlpath=tree%2Fpsych198-files%2Flab2%2Flab2.ipynb&branch=master)
+: **Assignment**{: .label .label-topic }[Week 7 Assignment/Unit 2 Reflection](https://bcourses.berkeley.edu/courses/1502254/assignments/8256410?module_item_id=16158616) (Due Sunday 3/28)
 
 
 Mar 24

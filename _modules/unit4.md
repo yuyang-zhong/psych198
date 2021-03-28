@@ -7,14 +7,12 @@ title: Unit 4
 
 
 Apr 21
-: Case Study
+: Case Study & Conclusion
   : Slides
 : **Readings**{: .label .label-read }TBD
-: **Vignette**{: .label .label-hw }Milestone 3
+: **Assignment**{: .label .label-topic }End-of-Semester Survey
 
 
 Apr 28
-: Guest Lecture?/Conclusion
-  : Slides
-: **Assignment**{: .label .label-topic }End-of-Semester Survey
+: **No Meeting**{: .label .label-grey }No Class: Vignette Office Hours
 : **Vignette**{: .label .label-hw }Final Paper/Vignette

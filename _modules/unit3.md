@@ -11,14 +11,14 @@ Mar 31
   : Slides
 : **Readings**{: .label .label-read }
 [Yarkoni & Westfall 2017](https://journals.sagepub.com/doi/pdf/10.1177/1745691617693393)
-: **Vignette**{: .label .label-hw }Milestone 1
+: **Vignette**{: .label .label-hw }[Milestone 1](https://bcourses.berkeley.edu/courses/1502254/assignments/8260074?module_item_id=16167155) (Due Sunday 4/4)
 
 
 Apr 7
 : Error Metrics
   : Slides
 : **Lab**{: .label .label-lab }Demo/Lab 3
-: **Vignette**{: .label .label-hw }Milestone 2
+: **Vignette**{: .label .label-hw }[Milestone 2](https://bcourses.berkeley.edu/courses/1502254/assignments/8260075) (Sunday 4/11)
 
 
 Apr 14

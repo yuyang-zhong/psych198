@@ -8,7 +8,7 @@ title: Unit 3
 
 Mar 31
 : Prediction vs. Explanation
-  : Slides
+  : [Slides](https://docs.google.com/presentation/d/1UuSNghdqwMmE50ESe74h2q_Js5qJU-0i3BOWrhhhMbo/edit?usp=sharing){: .label .label-yellow }
 : **Readings**{: .label .label-read }
 [Yarkoni & Westfall 2017](https://journals.sagepub.com/doi/pdf/10.1177/1745691617693393)
 : **Vignette**{: .label .label-hw }[Milestone 1](https://bcourses.berkeley.edu/courses/1502254/assignments/8260074?module_item_id=16167155) (Due Sunday 4/4)

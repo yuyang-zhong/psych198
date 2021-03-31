@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Final Project/Vignette
+title: Final Paper/Vignette
 description: >-
-    Final project/vignette information.
+    Final paper/vignette information.
 ---
 
-# Final Project/Vignette
+# Final Paper/Vignette
 {:.no_toc}
 
 ## Table of contents

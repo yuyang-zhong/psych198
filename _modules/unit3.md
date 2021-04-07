@@ -17,8 +17,8 @@ Mar 31
 
 Apr 7
 : Error Metrics
-  : Slides
-: **Lab**{: .label .label-lab }Demo/Lab 3
+  : [Slides](https://docs.google.com/presentation/d/14SbMZA1QgK0AAyYvTjMZAMtxCFMTUw1OlYnF4LUjvlg/edit?usp=sharing){: .label .label-yellow }
+: **Lab**{: .label .label-lab }[Demo/Lab 3](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyuyang-zhong%2Fpsych198-files&urlpath=tree%2Fpsych198-files%2Flab3%2Flab3.ipynb&branch=master)
 : **Vignette**{: .label .label-hw }[Milestone 2](https://bcourses.berkeley.edu/courses/1502254/assignments/8260075) (Sunday 4/11)
 
 

@@ -25,8 +25,8 @@ Apr 7
 
 Apr 14
 : Bayesian vs. Frequentist Inference
-  : Slides
-  : Recording
+  : [Video 1](https://www.youtube.com/watch?v=51bLRF02b4w){: .label .label-red }
+  : [Video 2](https://www.youtube.com/watch?v=1pk2rgvy6hw){: .label .label-red }
 : **Readings**{: .label .label-read }
 [Colling & Szűcs 2018](https://www.repository.cam.ac.uk/bitstream/handle/1810/288136/Colling-Sz%c5%b1cs2018_Article_StatisticalInferenceAndTheRepl.pdf?sequence=3&isAllowed=y)
 : **Assignment**{: .label .label-topic }[Week 10 Assignment/Unit 3 Reflection](https://bcourses.berkeley.edu/courses/1502254/assignments/8264875?module_item_id=16174987) (Due Tuesday 4/20)
